@@ -6,5 +6,6 @@ print("You gave me: \"{0}\"".format(user_string))
 palindrome = ''
 
 # find palindromic substrings
+# TODO(me): finish this
 
 print("Longest palindromic substring: \"{}\"".format(palindrome))
